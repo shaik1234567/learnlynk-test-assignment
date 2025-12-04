@@ -187,6 +187,12 @@ The application has been tested and verified:
 - "Mark Complete" button functionality working
 - Edge function ready for deployment
 
+### Screenshot
+
+![Dashboard showing today's tasks](images/dashboard-screenshot.png)
+
+The dashboard successfully displays tasks due today with all required functionality working.
+
 **Repository:** https://github.com/shaik1234567/learnlynk-test-assignment
 
 ---
